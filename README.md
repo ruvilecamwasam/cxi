@@ -1,4 +1,4 @@
-# The CXI equality
+# Coherence and Bayesian estimation
 
 Code from *The relative entropy of coherence quantifies performance in Bayesian estimation*
 
